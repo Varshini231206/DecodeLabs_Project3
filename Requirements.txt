@@ -1,0 +1,11 @@
+Java Development Kit (JDK) 17 or above
+
+Java Compiler (javac)
+
+Visual Studio Code or any Java IDE
+
+Java Extension Pack (Recommended for VS Code)
+
+Operating System:
+
+- Windows, Linux, or macOS

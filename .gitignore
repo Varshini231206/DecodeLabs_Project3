@@ -1,0 +1,30 @@
+Compiled Java Files
+
+*.class
+
+Log Files
+
+*.log
+
+VS Code
+
+.vscode/
+
+IntelliJ IDEA
+
+.idea/
+
+Eclipse
+
+.settings/
+.project
+.classpath
+
+Build Folders
+
+bin/
+out/
+
+Temporary Files
+
+*.tmp
