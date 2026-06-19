@@ -47,5 +47,7 @@ This project helped in understanding:
 
 Author
 
+Sri Varshini Yekambaram
+
 Developed as part of the DecodeLabs Java Programming Project 3.
 
